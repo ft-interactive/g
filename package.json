@@ -1,0 +1,24 @@
+{
+  "name": "g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ft-interactive/g.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ft-interactive/g/issues"
+  },
+  "homepage": "https://github.com/ft-interactive/g#readme",
+  "dependencies": {
+    "g-axis": "github:ft-interactive/g-axis",
+    "g-chartframe": "^5.1.6"
+  }
+}
